@@ -1,0 +1,19 @@
+[project]
+name = "tds-project-1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "docstring-parser>=0.16",
+    "duckdb>=1.2.0",
+    "fastapi[standard]>=0.115.8",
+    "markdown>=3.7",
+    "numpy>=2.2.3",
+    "pillow>=11.1.0",
+    "python-dateutil>=2.9.0.post0",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+    "scikit-learn>=1.6.1",
+]
